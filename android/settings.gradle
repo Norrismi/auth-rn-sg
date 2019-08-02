@@ -1,0 +1,3 @@
+rootProject.name = 'auth_rn_sg'
+
+include ':app'
